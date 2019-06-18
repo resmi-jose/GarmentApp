@@ -1,0 +1,32 @@
+<div class="container-fluid" style="background-image: url(assets/images/bg-login.jpg);height:657px;">
+  <h3 style="text-align:center;font-size:30px;color:#fff;"><b>Register Here</b></h3><br><br>
+  <div class="Register col-md-8 col-md-offset-2">
+  <form #userRegistrationForm="ngForm"  (submit)=onSubmit(userRegistrationForm)>
+    <div class="form-group row">
+      <label class="col-md-2">Username</label>
+     <div class="col-md-6"><input type="text" class="form-control " name="UserName" [(ngModel)]="service.formData.UserName"></div>
+    </div>
+    <div class="form-group row">
+      <label class="col-md-2">Password</label>
+      <div class="col-md-6"><input type="password" class="form-control " name="Password" [(ngModel)]="service.formData.Password"  >
+    </div>
+    </div>
+    <div class="form-group row">
+      <label class="col-md-2">Email</label>
+      <div class="col-md-6"> <input type="text" class="form-control " name="Email" [(ngModel)]="service.formData.Email">
+    </div> 
+    </div>
+    <div class="form-group row">
+      <label class="col-md-2">Firstname</label>
+      <div class="col-md-6"><input type="text" class="form-control" name="FirstName" [(ngModel)]="service.formData.FirstName">
+    </div>
+  </div>
+    <div class="form-group row">
+      <label class="col-md-2">Lastname</label>
+      <div class="col-md-6"><input type="text" class="form-control" name="LastName" [(ngModel)]="service.formData.LastName">
+    </div></div>
+    
+    <div class="col-md-3 col-md-offset-2"><button type="submit" class="btn btn-primary btn-register">Submit</button></div>
+  </form>
+  </div>
+</div>

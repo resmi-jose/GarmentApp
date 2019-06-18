@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sup2DBModelStoreContainer" CdmEntityContainer="sup2DBEntities">
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="sup2DBModel.product">
+        <MappingFragment StoreEntitySet="product">
+          <ScalarProperty Name="productID" ColumnName="productID" />
+          <ScalarProperty Name="fabricInfo" ColumnName="fabricInfo" />
+          <ScalarProperty Name="productName" ColumnName="productName" />
+          <ScalarProperty Name="garmentDes" ColumnName="garmentDes" />
+          <ScalarProperty Name="fontName" ColumnName="fontName" />
+          <ScalarProperty Name="fontNumber" ColumnName="fontNumber" />
+          <ScalarProperty Name="garmentImg" ColumnName="garmentImg" />
+          <ScalarProperty Name="garmentSpecf" ColumnName="garmentSpecf" />
+          <ScalarProperty Name="chestXs" ColumnName="chestXs" />
+          <ScalarProperty Name="chestS" ColumnName="chestS" />
+          <ScalarProperty Name="chestM" ColumnName="chestM" />
+          <ScalarProperty Name="chestL" ColumnName="chestL" />
+          <ScalarProperty Name="chestXl" ColumnName="chestXl" />
+          <ScalarProperty Name="chest2xl" ColumnName="chest2xl" />
+          <ScalarProperty Name="chest3xl" ColumnName="chest3xl" />
+          <ScalarProperty Name="chest4xl" ColumnName="chest4xl" />
+          <ScalarProperty Name="chest5xl" ColumnName="chest5xl" />
+          <ScalarProperty Name="lengthXs" ColumnName="lengthXs" />
+          <ScalarProperty Name="lengthS" ColumnName="lengthS" />
+          <ScalarProperty Name="lengthM" ColumnName="lengthM" />
+          <ScalarProperty Name="lengthL" ColumnName="lengthL" />
+          <ScalarProperty Name="lengthXl" ColumnName="lengthXl" />
+          <ScalarProperty Name="length2xl" ColumnName="length2xl" />
+          <ScalarProperty Name="length3xl" ColumnName="length3xl" />
+          <ScalarProperty Name="length4xl" ColumnName="length4xl" />
+          <ScalarProperty Name="length5xl" ColumnName="length5xl" />
+          <ScalarProperty Name="specialInstruction" ColumnName="specialInstruction" />
+          <ScalarProperty Name="signature" ColumnName="signature" />
+          <ScalarProperty Name="orderedDate" ColumnName="orderedDate" />
+          <ScalarProperty Name="requiredDate" ColumnName="requiredDate" />
+          <ScalarProperty Name="favcolor1" ColumnName="favcolor1" />
+          <ScalarProperty Name="favcolorText1" ColumnName="favcolorText1" />
+          <ScalarProperty Name="favcolor2" ColumnName="favcolor2" />
+          <ScalarProperty Name="favcolorText2" ColumnName="favcolorText2" />
+          <ScalarProperty Name="favcolor3" ColumnName="favcolor3" />
+          <ScalarProperty Name="favcolorText3" ColumnName="favcolorText3" />
+          <ScalarProperty Name="favcolor4" ColumnName="favcolor4" />
+          <ScalarProperty Name="favcolorText4" ColumnName="favcolorText4" />
+          <ScalarProperty Name="favcolor5" ColumnName="favcolor5" />
+          <ScalarProperty Name="favcolorText5" ColumnName="favcolorText5" />
+          <ScalarProperty Name="favcolor6" ColumnName="favcolor6" />
+          <ScalarProperty Name="favcolorText6" ColumnName="favcolorText6" />
+          <ScalarProperty Name="piecesXs" ColumnName="piecesXs" />
+          <ScalarProperty Name="piecesS" ColumnName="piecesS" />
+          <ScalarProperty Name="piecesM" ColumnName="piecesM" />
+          <ScalarProperty Name="piecesL" ColumnName="piecesL" />
+          <ScalarProperty Name="piecesXl" ColumnName="piecesXl" />
+          <ScalarProperty Name="pieces2xl" ColumnName="pieces2xl" />
+          <ScalarProperty Name="pieces3xl" ColumnName="pieces3xl" />
+          <ScalarProperty Name="pieces4xl" ColumnName="pieces4xl" />
+          <ScalarProperty Name="pieces5xl" ColumnName="pieces5xl" />
+          <ScalarProperty Name="pieces6xl" ColumnName="pieces6xl" />
+          <ScalarProperty Name="pieces7xl" ColumnName="pieces7xl" />
+          <ScalarProperty Name="piecesTotal" ColumnName="piecesTotal" />
+          <ScalarProperty Name="labelText1" ColumnName="labelText1" />
+          <ScalarProperty Name="labelImg1" ColumnName="labelImg1" />
+          <ScalarProperty Name="labelText2" ColumnName="labelText2" />
+          <ScalarProperty Name="labelImg2" ColumnName="labelImg2" />
+          <ScalarProperty Name="logoText1" ColumnName="logoText1" />
+          <ScalarProperty Name="logoText2" ColumnName="logoText2" />
+          <ScalarProperty Name="logoText3" ColumnName="logoText3" />
+          <ScalarProperty Name="logoText4" ColumnName="logoText4" />
+          <ScalarProperty Name="logoImg1" ColumnName="logoImg1" />
+          <ScalarProperty Name="logoImg2" ColumnName="logoImg2" />
+          <ScalarProperty Name="logoImg3" ColumnName="logoImg3" />
+          <ScalarProperty Name="logoImg4" ColumnName="logoImg4" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="users">
+      <EntityTypeMapping TypeName="sup2DBModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

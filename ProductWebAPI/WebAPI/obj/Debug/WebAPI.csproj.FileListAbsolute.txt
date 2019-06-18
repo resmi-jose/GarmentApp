@@ -1,0 +1,787 @@
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll.config
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.pdb
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.rsp
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.rsp
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebGrease.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Cors.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+E:\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+E:\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll.config
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.pdb
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.rsp
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.rsp
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Cors.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebGrease.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+E:\backup\05052019\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll.config
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.pdb
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.rsp
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.rsp
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Cors.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebGrease.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+E:\backup\07052019\Angular7-Sup2APP\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll.config
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebAPI.pdb
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csc.rsp
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\csi.rsp
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\WebGrease.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\Aju\NewFloder\Angular7-Sup2APP (1)\Angular7-Sup2APP\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\WebAPI.dll.config
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\WebAPI.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\WebAPI.pdb
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\csc.exe
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\csc.exe.config
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\csc.rsp
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\csi.exe
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\csi.exe.config
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\csi.rsp
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Console.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\vbc.rsp
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\EntityFramework.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Http.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\WebGrease.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\EntityFramework.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Http.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\Angular7-Sup2APP\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\WebAPI.dll.config
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\WebAPI.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\WebAPI.pdb
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\csc.exe
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\csc.exe.config
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\csc.rsp
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\csi.exe
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\csi.exe.config
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\csi.rsp
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Console.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\vbc.rsp
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\EntityFramework.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Cors.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Helpers.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Http.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Mvc.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Optimization.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Razor.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.WebPages.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\WebGrease.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\EntityFramework.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Helpers.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Http.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Mvc.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Optimization.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.Razor.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.WebPages.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\obj\Debug\WebAPI.dll
+E:\garmentApp\tosend\tosend\ProductWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.dll.config
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.pdb
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.exe
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.exe.config
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.rsp
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.exe
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.exe.config
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.rsp
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Console.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.rsp
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Helpers.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Mvc.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Optimization.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Razor.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\WebGrease.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Helpers.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Mvc.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Optimization.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Razor.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.dll
+D:\Jomy\Resmi pro\20190522\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.dll.config
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.pdb
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.exe
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.exe.config
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.rsp
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.exe
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.exe.config
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.rsp
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Console.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.rsp
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Cors.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Helpers.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Mvc.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Optimization.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Razor.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\WebGrease.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Helpers.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Mvc.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Optimization.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Razor.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.dll
+E:\APP1\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.dll.config
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\WebAPI.pdb
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.exe
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.exe.config
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csc.rsp
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.exe
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.exe.config
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\csi.rsp
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Console.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.exe.config
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\vbc.rsp
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Cors.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Helpers.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Mvc.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Optimization.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Razor.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\WebGrease.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Newtonsoft.Json.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Helpers.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Mvc.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Optimization.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.Razor.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.dll
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.pdb

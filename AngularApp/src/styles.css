@@ -1,0 +1,123 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #e6e6e6;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a :hover {
+    color: #fff;
+    text-decoration: none;
+}
+.navbar-default {
+    background-color: #ffff;
+    border-color: #e7e7e7;
+    height:70px;
+}
+.bg-light{background-color: #FFF;
+    color: #333;
+    font-size: 18px;
+    padding-top: 1%; }
+.navbar p{text-align: center;}
+label {
+    background-color: #09384e;
+    color: #fff;
+    border-radius: 0px;
+    padding: 10px;
+    font-size: 12px;
+    width: 170px;
+}
+.GarmntDscptn {
+
+    color: #333;
+    padding-left: 2%;
+    box-shadow: -2px 2px 20px #d2d2d2;
+}
+.firstdiv{
+    background-color:#ffffff42;
+    padding-top: 2%;
+     box-shadow: -2px 2px 20px #d2d2d2;
+     animation: appear 2s;}
+#dvPreview img {
+    width: 550px;
+    height: 400px;
+}
+.btn-file {
+    background-color: #26a69a;
+    color:#fff;
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+  
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;}
+    .dvPreviewLabel1 img{width:150px;height:100px;}
+    .dvPreviewLabel2 img{width:150px;height:100px;}
+    .logo1 img{width:150px;height:100px;}
+    .logo2 img{width:150px;height:100px;}
+    .logo3 img{width:150px;height:100px;}
+    .logo4 img{width:150px;height:100px;}
+    .GarmntDscptn{
+        
+        color:#333;
+        padding-left: 2%;
+         box-shadow: -2px 2px 20px #d2d2d2; 
+    }
+    .gmntHead{font-size:20px;
+    font-weight:bold;
+    text-align:center;
+    margin-top:2%;
+background-color: #ee6e73;
+color:#fff;}
+.table>tbody>tr>td{
+   font-family: Georgia, serif;
+   cursor:pointer;
+}
+.table-hover{margin-top:2%; }
+    .table-hover th{ background-color: #03031b;color:#fff;}
+.login{margin-top:20%;background-color: #31708f70;padding: 5% 5% 15% 25%;}
+.login h2{font-weight: 700;
+    margin-left: 21%;
+    color: #fff;}
+.btn-login{background-color:#081d2f;color:#fff; }
+  
+ .newmmbr {
+    margin: 4% 0% 0% 50%;
+    color:red;
+}
+.newmmbr>a{    color: #08086b;
+}
+.btn.focus, .btn:focus, .btn:hover {
+    color: #fff;
+    text-decoration: none;
+}
+.Register{background-color: #31708f70;
+    padding: 5% 5% 15% 25%;height:500px;}
+    .btn-register{background-color:#081d2f;color:#fff; }

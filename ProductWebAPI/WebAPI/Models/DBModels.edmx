@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="sup2DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="productID" />
+          </Key>
+          <Property Name="productID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="fabricInfo" Type="varchar" MaxLength="50" />
+          <Property Name="productName" Type="varchar" MaxLength="50" />
+          <Property Name="garmentDes" Type="varchar" MaxLength="50" />
+          <Property Name="fontName" Type="varchar" MaxLength="50" />
+          <Property Name="fontNumber" Type="varchar" MaxLength="50" />
+          <Property Name="garmentImg" Type="varchar" MaxLength="500" />
+          <Property Name="garmentSpecf" Type="varchar" MaxLength="50" />
+          <Property Name="chestXs" Type="int" />
+          <Property Name="chestS" Type="int" />
+          <Property Name="chestM" Type="int" />
+          <Property Name="chestL" Type="int" />
+          <Property Name="chestXl" Type="int" />
+          <Property Name="chest2xl" Type="int" />
+          <Property Name="chest3xl" Type="int" />
+          <Property Name="chest4xl" Type="int" />
+          <Property Name="chest5xl" Type="int" />
+          <Property Name="lengthXs" Type="int" />
+          <Property Name="lengthS" Type="int" />
+          <Property Name="lengthM" Type="int" />
+          <Property Name="lengthL" Type="int" />
+          <Property Name="lengthXl" Type="int" />
+          <Property Name="length2xl" Type="int" />
+          <Property Name="length3xl" Type="int" />
+          <Property Name="length4xl" Type="int" />
+          <Property Name="length5xl" Type="int" />
+          <Property Name="specialInstruction" Type="varchar" MaxLength="500" />
+          <Property Name="signature" Type="varchar" MaxLength="20" />
+          <Property Name="orderedDate" Type="varchar" MaxLength="20" />
+          <Property Name="requiredDate" Type="varchar" MaxLength="20" />
+          <Property Name="favcolor1" Type="varchar" MaxLength="20" />
+          <Property Name="favcolorText1" Type="varchar" MaxLength="20" />
+          <Property Name="favcolor2" Type="varchar" MaxLength="20" />
+          <Property Name="favcolorText2" Type="varchar" MaxLength="20" />
+          <Property Name="favcolor3" Type="varchar" MaxLength="20" />
+          <Property Name="favcolorText3" Type="varchar" MaxLength="20" />
+          <Property Name="favcolor4" Type="varchar" MaxLength="20" />
+          <Property Name="favcolorText4" Type="varchar" MaxLength="20" />
+          <Property Name="favcolor5" Type="varchar" MaxLength="20" />
+          <Property Name="favcolorText5" Type="varchar" MaxLength="20" />
+          <Property Name="favcolor6" Type="varchar" MaxLength="20" />
+          <Property Name="favcolorText6" Type="varchar" MaxLength="20" />
+          <Property Name="piecesXs" Type="varchar" MaxLength="20" />
+          <Property Name="piecesS" Type="varchar" MaxLength="20" />
+          <Property Name="piecesM" Type="varchar" MaxLength="20" />
+          <Property Name="piecesL" Type="varchar" MaxLength="20" />
+          <Property Name="piecesXl" Type="varchar" MaxLength="20" />
+          <Property Name="pieces2xl" Type="varchar" MaxLength="20" />
+          <Property Name="pieces3xl" Type="varchar" MaxLength="20" />
+          <Property Name="pieces4xl" Type="varchar" MaxLength="20" />
+          <Property Name="pieces5xl" Type="varchar" MaxLength="20" />
+          <Property Name="pieces6xl" Type="varchar" MaxLength="20" />
+          <Property Name="pieces7xl" Type="varchar" MaxLength="20" />
+          <Property Name="piecesTotal" Type="varchar" MaxLength="20" />
+          <Property Name="labelText1" Type="varchar" MaxLength="20" />
+          <Property Name="labelImg1" Type="varchar" MaxLength="500" />
+          <Property Name="labelText2" Type="varchar" MaxLength="20" />
+          <Property Name="labelImg2" Type="varchar" MaxLength="500" />
+          <Property Name="logoText1" Type="varchar" MaxLength="20" />
+          <Property Name="logoText2" Type="varchar" MaxLength="20" />
+          <Property Name="logoText3" Type="varchar" MaxLength="20" />
+          <Property Name="logoText4" Type="varchar" MaxLength="20" />
+          <Property Name="logoImg1" Type="varchar" MaxLength="500" />
+          <Property Name="logoImg2" Type="varchar" MaxLength="500" />
+          <Property Name="logoImg3" Type="varchar" MaxLength="500" />
+          <Property Name="logoImg4" Type="varchar" MaxLength="500" />
+        </EntityType>
+        <EntityType Name="user">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="UserName" Type="varchar" MaxLength="50" />
+          <Property Name="Password" Type="varchar" MaxLength="50" />
+          <Property Name="Email" Type="varchar" MaxLength="50" />
+          <Property Name="FirstName" Type="varchar" MaxLength="50" />
+          <Property Name="LastName" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="sup2DBModelStoreContainer">
+          <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="user" EntityType="Self.user" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="sup2DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="productID" />
+          </Key>
+          <Property Name="productID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="fabricInfo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="productName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="garmentDes" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="fontName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="fontNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="garmentImg" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="garmentSpecf" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="chestXs" Type="Int32" />
+          <Property Name="chestS" Type="Int32" />
+          <Property Name="chestM" Type="Int32" />
+          <Property Name="chestL" Type="Int32" />
+          <Property Name="chestXl" Type="Int32" />
+          <Property Name="chest2xl" Type="Int32" />
+          <Property Name="chest3xl" Type="Int32" />
+          <Property Name="chest4xl" Type="Int32" />
+          <Property Name="chest5xl" Type="Int32" />
+          <Property Name="lengthXs" Type="Int32" />
+          <Property Name="lengthS" Type="Int32" />
+          <Property Name="lengthM" Type="Int32" />
+          <Property Name="lengthL" Type="Int32" />
+          <Property Name="lengthXl" Type="Int32" />
+          <Property Name="length2xl" Type="Int32" />
+          <Property Name="length3xl" Type="Int32" />
+          <Property Name="length4xl" Type="Int32" />
+          <Property Name="length5xl" Type="Int32" />
+          <Property Name="specialInstruction" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="signature" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="orderedDate" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="requiredDate" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolor1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolorText1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolor2" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolorText2" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolor3" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolorText3" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolor4" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolorText4" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolor5" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolorText5" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolor6" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="favcolorText6" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="piecesXs" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="piecesS" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="piecesM" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="piecesL" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="piecesXl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="pieces2xl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="pieces3xl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="pieces4xl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="pieces5xl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="pieces6xl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="pieces7xl" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="piecesTotal" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="labelText1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="labelImg1" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="labelText2" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="labelImg2" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="logoText1" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="logoText2" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="logoText3" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="logoText4" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="logoImg1" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="logoImg2" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="logoImg3" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+          <Property Name="logoImg4" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="user">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="sup2DBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="products" EntityType="Self.product" />
+          <EntitySet Name="users" EntityType="Self.user" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="sup2DBModelStoreContainer" CdmEntityContainer="sup2DBEntities">
+          <EntitySetMapping Name="products">
+            <EntityTypeMapping TypeName="sup2DBModel.product">
+              <MappingFragment StoreEntitySet="product">
+                <ScalarProperty Name="productID" ColumnName="productID" />
+                <ScalarProperty Name="fabricInfo" ColumnName="fabricInfo" />
+                <ScalarProperty Name="productName" ColumnName="productName" />
+                <ScalarProperty Name="garmentDes" ColumnName="garmentDes" />
+                <ScalarProperty Name="fontName" ColumnName="fontName" />
+                <ScalarProperty Name="fontNumber" ColumnName="fontNumber" />
+                <ScalarProperty Name="garmentImg" ColumnName="garmentImg" />
+                <ScalarProperty Name="garmentSpecf" ColumnName="garmentSpecf" />
+                <ScalarProperty Name="chestXs" ColumnName="chestXs" />
+                <ScalarProperty Name="chestS" ColumnName="chestS" />
+                <ScalarProperty Name="chestM" ColumnName="chestM" />
+                <ScalarProperty Name="chestL" ColumnName="chestL" />
+                <ScalarProperty Name="chestXl" ColumnName="chestXl" />
+                <ScalarProperty Name="chest2xl" ColumnName="chest2xl" />
+                <ScalarProperty Name="chest3xl" ColumnName="chest3xl" />
+                <ScalarProperty Name="chest4xl" ColumnName="chest4xl" />
+                <ScalarProperty Name="chest5xl" ColumnName="chest5xl" />
+                <ScalarProperty Name="lengthXs" ColumnName="lengthXs" />
+                <ScalarProperty Name="lengthS" ColumnName="lengthS" />
+                <ScalarProperty Name="lengthM" ColumnName="lengthM" />
+                <ScalarProperty Name="lengthL" ColumnName="lengthL" />
+                <ScalarProperty Name="lengthXl" ColumnName="lengthXl" />
+                <ScalarProperty Name="length2xl" ColumnName="length2xl" />
+                <ScalarProperty Name="length3xl" ColumnName="length3xl" />
+                <ScalarProperty Name="length4xl" ColumnName="length4xl" />
+                <ScalarProperty Name="length5xl" ColumnName="length5xl" />
+                <ScalarProperty Name="specialInstruction" ColumnName="specialInstruction" />
+                <ScalarProperty Name="signature" ColumnName="signature" />
+                <ScalarProperty Name="orderedDate" ColumnName="orderedDate" />
+                <ScalarProperty Name="requiredDate" ColumnName="requiredDate" />
+                <ScalarProperty Name="favcolor1" ColumnName="favcolor1" />
+                <ScalarProperty Name="favcolorText1" ColumnName="favcolorText1" />
+                <ScalarProperty Name="favcolor2" ColumnName="favcolor2" />
+                <ScalarProperty Name="favcolorText2" ColumnName="favcolorText2" />
+                <ScalarProperty Name="favcolor3" ColumnName="favcolor3" />
+                <ScalarProperty Name="favcolorText3" ColumnName="favcolorText3" />
+                <ScalarProperty Name="favcolor4" ColumnName="favcolor4" />
+                <ScalarProperty Name="favcolorText4" ColumnName="favcolorText4" />
+                <ScalarProperty Name="favcolor5" ColumnName="favcolor5" />
+                <ScalarProperty Name="favcolorText5" ColumnName="favcolorText5" />
+                <ScalarProperty Name="favcolor6" ColumnName="favcolor6" />
+                <ScalarProperty Name="favcolorText6" ColumnName="favcolorText6" />
+                <ScalarProperty Name="piecesXs" ColumnName="piecesXs" />
+                <ScalarProperty Name="piecesS" ColumnName="piecesS" />
+                <ScalarProperty Name="piecesM" ColumnName="piecesM" />
+                <ScalarProperty Name="piecesL" ColumnName="piecesL" />
+                <ScalarProperty Name="piecesXl" ColumnName="piecesXl" />
+                <ScalarProperty Name="pieces2xl" ColumnName="pieces2xl" />
+                <ScalarProperty Name="pieces3xl" ColumnName="pieces3xl" />
+                <ScalarProperty Name="pieces4xl" ColumnName="pieces4xl" />
+                <ScalarProperty Name="pieces5xl" ColumnName="pieces5xl" />
+                <ScalarProperty Name="pieces6xl" ColumnName="pieces6xl" />
+                <ScalarProperty Name="pieces7xl" ColumnName="pieces7xl" />
+                <ScalarProperty Name="piecesTotal" ColumnName="piecesTotal" />
+                <ScalarProperty Name="labelText1" ColumnName="labelText1" />
+                <ScalarProperty Name="labelImg1" ColumnName="labelImg1" />
+                <ScalarProperty Name="labelText2" ColumnName="labelText2" />
+                <ScalarProperty Name="labelImg2" ColumnName="labelImg2" />
+                <ScalarProperty Name="logoText1" ColumnName="logoText1" />
+                <ScalarProperty Name="logoText2" ColumnName="logoText2" />
+                <ScalarProperty Name="logoText3" ColumnName="logoText3" />
+                <ScalarProperty Name="logoText4" ColumnName="logoText4" />
+                <ScalarProperty Name="logoImg1" ColumnName="logoImg1" />
+                <ScalarProperty Name="logoImg2" ColumnName="logoImg2" />
+                <ScalarProperty Name="logoImg3" ColumnName="logoImg3" />
+                <ScalarProperty Name="logoImg4" ColumnName="logoImg4" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="users">
+            <EntityTypeMapping TypeName="sup2DBModel.user">
+              <MappingFragment StoreEntitySet="user">
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="LastName" ColumnName="LastName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

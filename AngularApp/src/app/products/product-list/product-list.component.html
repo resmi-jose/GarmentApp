@@ -1,0 +1,34 @@
+<div class="container" *ngIf="service.formHideshow==0">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+       <a class="navbar-brand" href="#"> 
+    <img src="assets\images\logo.jpg" width="180" height="50" ></a>
+    <button class="btn  learn_more_button"style="float:right;margin: 2% -7% 0% 0%" (click)="Logout()" >Logout</button>
+    </div>
+  </nav><br><br><br><br>
+  <input type="text" class="form-control-search" placeholder="Search" name="search" [(ngModel)]="filter">
+<button class="btn btn-success"(click)="addnew()" style="float:right;" >Add new Record</button>
+<br>
+<table class="table table-hover table-bordered">
+  
+  <thead>
+    <tr>
+      <th class=""><i class="fas fa-sort-numeric-down"></i>&nbsp;&nbsp;&nbsp;S.No</th>
+      <th class=""><i class="fab fa-product-hunt"></i>&nbsp;&nbsp;&nbsp;Product Name</th>
+      <th class=""><i class="fas fa-table"></i>&nbsp;&nbsp;&nbsp;Ordered Date</th>
+      <th class=""><i class="fas fa-table"></i>&nbsp;&nbsp;&nbsp;Required Date</th>
+      <th class=""><i class="fas fa-directions"></i>&nbsp;&nbsp;&nbsp;Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor ="let pdt  of service.list| filter:filter; let i = index">
+      <td class="">{{i+1}}</td>
+      <td><i class="fab fa-product-hunt"></i>&nbsp;&nbsp;&nbsp;{{pdt.productName}}</td>
+      <td><i class="fas fa-table"></i>&nbsp;&nbsp;&nbsp;{{pdt.orderedDate}}</td>
+      <td><i class="fas fa-table"></i>&nbsp;&nbsp;&nbsp;{{pdt.requiredDate}}</td>
+      <td><button class="btn btn-info" (click)="openForEdit(pdt)"><i class="fas fa-edit"></i></button>&nbsp;&nbsp;
+      <button class="btn btn-danger" (click)="onDelete(pdt.productID)"><i class="fas fa-trash"></i></button></td>
+    </tr>
+</tbody>
+</table>
+<div>

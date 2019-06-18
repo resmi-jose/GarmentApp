@@ -1,0 +1,358 @@
+<div class="container" *ngIf="service.formHideshow!=0">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+       <a class="navbar-brand" href="#"> 
+    <img src="assets\images\logo.jpg" width="180" height="50" ></a>
+    </div>
+    <ul style="float:right;margin-top:-2%;">
+      <button  class=" btn btn-file btn-info"(click)="BackProductList()">ProductList</button>
+    </ul>
+   
+  </nav><br><br><br><br>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+         <p><b>&nbsp;&nbsp;NOTE:&nbsp;&nbsp;</b> <i>Please check carefully, as once approved you are confirming all specifications and art in your visual is correct.
+
+          We do not take responsibility for errors signed off.</i></p>
+        </div>
+    </nav>
+   
+    <form  #productForm="ngForm" (submit)="onSubmit(productForm)" >
+      <input type="hidden" name="productID"  #productID="ngModel" [(ngModel)]="service.formData.productID">
+    <div class="row firstdiv">
+      <div class="col-md-6">
+     <div class="form-group row">
+  <label for="Fabric Info" class="col-md-3 col-form-label">Fabric Info</label>
+  <div class="col-md-6">
+  <input type="text" class="form-control" name="fabricInfo"  #fabricInfo="ngModel" [(ngModel)]="service.formData.fabricInfo" placeholder="Fabric Info">
+   </div> 
+  </div>
+    </div>
+      <div class="col-md-6">
+      <div class="form-group row">
+  <label for="Product" class="col-md-4 col-form-label">Product</label>
+      <div class="col-md-6">
+        <input type="text" class="form-control" name="productName" #productName="ngModel" [(ngModel)]="service.formData.productName"  placeholder="Product">
+      </div>
+  </div>
+    </div>          
+    
+    </div><br><br>
+    <div class="row">
+    <div class="col-md-7 GarmntDscptn">
+        <div class="form-group row"><br>
+         <input type="text" class="form-control" name="garmentDes" #garmentDes="ngModel" [(ngModel)]="service.formData.garmentDes" placeholder="Garment Description"><br>
+        </div>
+    
+      <div class="form-group row">
+     <label for="fontName" class="col-md-4 col-form-label">Name Font</label>
+         <div class="col-md-6">
+           <input type="text" class="form-control" name="fontName"  #fontName="ngModel" [(ngModel)]="service.formData.fontName"  placeholder="Name Font">
+         </div>
+     </div>
+       <div class="form-group row">
+         <label for="fontNumber" class="col-md-4 col-form-label">Number Font</label>
+         <div class="col-md-6">
+           <input type="text" class="form-control" name="fontNumber"  #fontNumber="ngModel" [(ngModel)]="service.formData.fontNumber" placeholder="Number Font">
+         </div>
+     </div>
+     
+    
+     <div id="dvPreview">
+        <img id="blah" [src]="service.urls3Garment" alt=""  class="rounded mb-3" width="180" /><br>
+      <!-- <img  src="{{this.service.img_url}}{{service.formData.garmentImg}}" class="rounded mb-3" width="180">  -->
+     <!--<img *ngFor="let url of urls3Garment" [src]="url" class="rounded mb-3" width="180">  -->
+    </div>
+    <div class="col-md-4 col-md-offset-2">
+    <label class="btn btn-default btn-file">Upload Garment
+      <input  type="file"  (change)="getFileDetailsDocumentGarment($event);handleFileInputGarment($event.target.files)" accept="image/*" #Image >
+     </label></div><br>
+     <div class="form-group row">
+        <br>
+         <div class="col-md-12">
+           <input type="text" class="form-control" name="garmentSpecf" #garmentSpecf="ngModel" [(ngModel)]="service.formData.garmentSpecf"  rows="3" placeholder="Write here if you have any Speciffication">
+         </div>
+     </div>
+     <table class="table">
+         <thead>
+           <tr>
+             <th>Adult</th>
+             <th>XS</th>
+             <th>S</th>
+         <th>M</th>
+         <th>L</th>
+         <th>XL</th>
+         <th>2XL</th>
+         <th>3XL</th>
+         <th>4XL</th>
+         <th>5XL</th>
+           </tr>
+         </thead>
+         <tbody>
+           <tr class="danger">
+             <td>1/2 Chest(in CM)</td>
+           
+             
+        <td><input type="text" name="chestXs" #chestXs="ngModel" [(ngModel)]="service.formData.chestXs"  class="form-control"></td>
+         <td><input type="text" name="chestS" #chestS="ngModel" [(ngModel)]="service.formData.chestS"    class="form-control"></td>
+         <td><input type="text" name="chestM" #chestM="ngModel" [(ngModel)]="service.formData.chestM"    class="form-control"></td>
+         <td><input type="text" name="chestL" #chestL="ngModel" [(ngModel)]="service.formData.chestL"       class="form-control"></td>
+         <td><input type="text" name="chestXl"  #chestXl="ngModel" [(ngModel)]="service.formData.chestXl"   class="form-control"></td>
+         <td><input type="text" name="chest2xl" #chest2xl="ngModel" [(ngModel)]="service.formData.chest2xl"  class="form-control"></td>
+         <td><input type="text" name="chest3xl" #chest3xl="ngModel" [(ngModel)]="service.formData.chest3xl"  class="form-control"></td>
+         <td><input type="text" name="chest4xl" #chest4xl="ngModel" [(ngModel)]="service.formData.chest4xl"  class="form-control"></td>
+         <td><input type="text" name="chest5xl" #chest5xl="ngModel" [(ngModel)]="service.formData.chest5xl"  class="form-control"></td>
+         
+         
+            
+           </tr>      
+           <tr class="success">
+             <td>Length(in CM)</td>
+         <td><input type="text" name="lengthXs" #lengthXs="ngModel" [(ngModel)]="service.formData.lengthXs"  class="form-control"></td>
+         <td><input type="text" name="lengthS"  #lengthS="ngModel" [(ngModel)]="service.formData.lengthS" class="form-control"></td>
+         <td><input type="text" name="lengthM"  #lengthM="ngModel" [(ngModel)]="service.formData.lengthM" class="form-control"></td>
+         <td><input type="text" name="lengthL"  #lengthL="ngModel" [(ngModel)]="service.formData.lengthL" class="form-control"></td>
+         <td><input type="text" name="lengthXl" #lengthXl="ngModel" [(ngModel)]="service.formData.lengthXl"  class="form-control"></td>
+         <td><input type="text" name="length2xl" #length2xl="ngModel" [(ngModel)]="service.formData.length2xl" class="form-control"></td>
+         <td><input type="text" name="length3xl" #length3xl="ngModel" [(ngModel)]="service.formData.length3xl" class="form-control"></td>
+         <td><input type="text" name="length4xl" #length4xl="ngModel" [(ngModel)]="service.formData.length4xl" class="form-control"></td>
+         <td><input type="text" name="length5xl" #length5xl="ngModel" [(ngModel)]="service.formData.length5xl" class="form-control"></td>
+             
+           </tr>
+          
+         </tbody>
+       </table>
+        <div class="col-md-12">
+          <label for="" class="col-form-label">Special Instruction</label>
+     
+       <p> <textarea class="form-control" name="specialInstruction" #specialInstruction="ngModel" [(ngModel)]="service.formData.specialInstruction" rows="3" placeholder="Write here if you have any Speciffication"></textarea></p>
+    
+     </div>
+       <div class="col-md-8">
+       
+           <textarea class="form-control" name="signature" rows="1" #signature="ngModel" [(ngModel)]="service.formData.signature"  placeholder="Signature"></textarea>
+         </div>
+     <!--<div class="col-md-3 col-md-offset-1"><br><br>
+      <input type="checkbox" name="" value=""><b style="font-size:15px;">Approved</b>
+      </div>-->
+     </div>
+     
+      <div class="col-md-5 sizeColor">
+      <div class="col-md-8">
+      <div class="form-group row">
+     <label for=""><i class="fas fa-table"></i>&nbsp;&nbsp;&nbsp;Ordered date</label>
+     <input type="date" class="form-control col-md-2" name="orderedDate" #orderedDate="ngModel" [(ngModel)]="service.formData.orderedDate" >
+        </div><br>
+         <div class="form-group row">
+     <label for=""><i class="fas fa-table"></i>&nbsp;&nbsp;&nbsp;Required date</label>
+        <input type="date" class="form-control col-md-2" name="requiredDate" #requiredDate="ngModel" [(ngModel)]="service.formData.requiredDate" >
+        </div>
+     
+       
+     
+        <table class="table">
+         <label for="">Pick Color</label>
+         <!-- <thead>
+           <tr>
+             <th>Firstname</th>
+             <th>Lastname</th>
+            
+           </tr>
+         </thead> -->
+         <tbody>
+           <tr>
+             <td><input type="color" name="favcolor1"  #favcolor1="ngModel" [(ngModel)]="service.formData.favcolor1" value="#333"></td>
+             <td><input type="text" name="favcolorText1"  #favcolorText1="ngModel" [(ngModel)]="service.formData.favcolorText1" class="form-control"></td>
+            
+           </tr>      
+           <tr class="">
+             <td><input type="color" name="favcolor2" #favcolor2="ngModel" [(ngModel)]="service.formData.favcolor2" value="#333"></td>
+             <td><input type="text"  name="favcolorText2"  #favcolorText2="ngModel" [(ngModel)]="service.formData.favcolorText2" class="form-control"></td>
+            
+           </tr>
+           <tr class="">
+             <td><input type="color" name="favcolor3" #favcolor3="ngModel" [(ngModel)]="service.formData.favcolor3" value="#333"></td>
+             <td><input type="text" name="favcolorText3" #favcolorText3="ngModel" [(ngModel)]="service.formData.favcolorText3"   class="form-control"></td>
+            
+           </tr>
+           <tr class="">
+             <td><input type="color" name="favcolor4" #favcolor4="ngModel" [(ngModel)]="service.formData.favcolor4" value="#333"></td>
+             <td><input type="text" name="favcolorText4" #favcolorText4="ngModel" [(ngModel)]="service.formData.favcolorText4"  class="form-control"></td>
+             
+           </tr>
+           <tr class="">
+             <td><input type="color" name="favcolor5" #favcolor5="ngModel" [(ngModel)]="service.formData.favcolor5" value="#333"></td>
+             <td><input type="text" name="favcolorText5" #favcolorText5="ngModel" [(ngModel)]="service.formData.favcolorText5"  class="form-control"></td>
+            
+           </tr>
+           <tr class="">
+             <td><input type="color" name="favcolor6" #favcolor6="ngModel" [(ngModel)]="service.formData.favcolor6"  value="#333"></td>
+             <td><input type="text" name="favcolorText6"  #favcolorText6="ngModel" [(ngModel)]="service.formData.favcolorText6" class="form-control"></td>
+            
+           </tr>
+         </tbody>
+       </table>
+      
+      </div>
+      <div class="col-md-4">
+      <table class="table ">
+         <thead>
+           <tr>
+             <th style="background-color:#ee6e73;color:#fff;font-weight:bold;">Sizes</th>
+             <th style="background-color:#ee6e73;color:#fff;font-weight:bold;">Pieces</th>
+            
+           </tr>
+         </thead>
+         <tbody>
+           
+          <tr class="danger">
+              <td>XS</td>
+             <td><input type="text" class="form-control" name="piecesXs" #piecesXs="ngModel" [(ngModel)]="service.formData.piecesXs"  ></td>
+            
+           </tr>
+           <tr class="success">
+             <td>S</td>
+             <td><input type="text" class="form-control" name="piecesS" #piecesS="ngModel" [(ngModel)]="service.formData.piecesS" ></td>
+             
+           </tr>
+         <tr class="info">
+              <td >M</td>
+             <td><input type="text" class="form-control" name="piecesM" #piecesM="ngModel" [(ngModel)]="service.formData.piecesM"  ></td>
+            
+           </tr>
+        <tr class="warning">
+              <td >L</td>
+             <td><input type="text" class="form-control" name="piecesL" #piecesL="ngModel" [(ngModel)]="service.formData.piecesL" ></td>
+            
+           </tr>
+          <tr class="danger">
+              <td >XL</td>
+             <td><input type="text" class="form-control" name="piecesXl" #piecesXl="ngModel" [(ngModel)]="service.formData.piecesXl"  ></td>
+            
+           </tr>
+         <tr class="success">
+              <td >2XL</td>
+             <td><input type="text" class="form-control" name="pieces2xl" #pieces2xl="ngModel" [(ngModel)]="service.formData.pieces2xl" ></td>
+            
+           </tr>
+          <tr class="info">
+              <td >3XL</td>
+             <td><input type="text" class="form-control" name="pieces3xl" #pieces3xl="ngModel" [(ngModel)]="service.formData.pieces3xl"  ></td>
+           </tr>
+       <tr class="warning">
+              <td >4XL</td>
+            <td><input type="text" class="form-control" name="pieces4xl" #pieces4xl="ngModel" [(ngModel)]="service.formData.pieces4xl"  ></td>
+            
+           </tr>
+           <tr class="danger">
+              <td >5XL</td>
+             <td><input type="text" class="form-control" name="pieces5xl" #pieces5xl="ngModel" [(ngModel)]="service.formData.pieces5xl"  ></td>
+            
+           </tr>
+        <tr class="success">
+              <td >6XL</td>
+             <td><input type="text" class="form-control" name="pieces6xl" #pieces6xl="ngModel" [(ngModel)]="service.formData.pieces6xl" ></td>
+            
+           </tr>
+        <tr class="info">
+              <td >7XL</td>
+             <td><input type="text" class="form-control" name="pieces7xl" #pieces7xl="ngModel" [(ngModel)]="service.formData.pieces7xl" ></td>
+            </tr>
+         <!--- <tr class="warning">
+              <td><b>TOTAL</b></td>
+             <td><input type="text" class="form-control" name="piecesTotal" #piecesTotal="ngModel" [(ngModel)]="service.formData.piecesTotal"  ></td>
+            
+           </tr>-->
+         </tbody>
+       </table>
+      </div>
+      <label for="inputPassword">Upload Labels</label><br><br>
+      <div class="form-group row">
+        <div class="col-md-4">
+          <div class="dvPreviewLabel1"><img id="label1" [src]="service.urlslogolabel1" alt=""   /></div>
+        </div>
+        <div class="col-md-4">
+          <input type="text" class="form-control" name="labelText1" #labelText1="ngModel" [(ngModel)]="service.formData.labelText1"  placeholder="size">
+        </div>
+        <div class="col-md-3">
+         <label class="btn btn-default btn-file">
+          Upload <input  type="file"  (change)="getFilelabelImg1($event);handleFileInputlabelImg1($event.target.files)" accept="image/*" #Image >
+       </label>
+      </div>
+        </div>
+        <div class="form-group row">
+          
+               <div class="col-md-4">
+                <div class="dvPreviewLabel2"><img id="label2" [src]="service.urlslogolabel2" alt=""   /></div>
+              </div>
+              <div class="col-md-4">
+                <input type="text" class="form-control" name="labelText2" #labelText2="ngModel" [(ngModel)]="service.formData.labelText2" placeholder="size">
+              </div>
+              <div class="col-md-3">
+               <label class="btn btn-default btn-file">
+                 Upload<input  type="file"  (change)="getFilelabelImg2($event);handleFileInputlabelImg2($event.target.files)" accept="image/*" #Image >
+             </label>
+            </div>
+           </div>
+           <label for="Upload Logos">Upload Logos</label><br><br>
+           <div class="form-group row">
+              <div class="col-md-4">
+                  <div class="logo1"><img id="logoImg1" [src]="service.urlslogoImg1" alt=""   /></div>
+                </div>
+            <div class="col-md-4">
+                   <input type="text" class="form-control" name="logoText1" #logoText1="ngModel" [(ngModel)]="service.formData.logoText1" placeholder="size">
+                 </div>
+                 <div class="col-md-3">
+                 <label class="btn btn-default btn-file">
+                   Upload<input  type="file"  (change)="getFilelogoImg1($event);handleFileInputlogoImg1($event.target.files)" accept="image/*" #Image >
+               </label>
+                 </div>
+             </div>
+             <div class="form-group row">
+                <div class="col-md-4">
+                    <div class="logo1"><img id="logoImg2" [src]="service.urlslogoImg2" alt=""   /></div>
+                  </div>
+              <div class="col-md-4">
+                     <input type="text" class="form-control" name="logoText2" #logoText2="ngModel" [(ngModel)]="service.formData.logoText2" placeholder="Logo 2 size">
+                   </div>
+                   <div class="col-md-3">
+                   <label class="btn btn-default btn-file">
+                     Upload<input  type="file"  (change)="getFilelogoImg2($event);handleFileInputlogoImg2($event.target.files)" accept="image/*" #Image >
+                 </label>
+                 </div>
+               </div>
+               <div class="form-group row">
+                  <div class="col-md-4">
+                      <div class="logo1"><img id="logoImg3" [src]="service.urlslogoImg3" alt=""   /></div>
+                    </div>
+                <div class="col-md-4">
+                       <input type="text" class="form-control" name="logoText3" #logoText3="ngModel" [(ngModel)]="service.formData.logoText3" placeholder="Logo 3 size">
+                     </div>
+                     <div class="col-md-3">
+                     <label class="btn btn-default btn-file">
+                       Upload<input  type="file"  (change)="getFilelogoImg3($event);handleFileInputlogoImg3($event.target.files)" accept="image/*" #Image >
+                   </label>
+                   </div>
+                 </div>
+                 <div class="form-group row">
+                    <div class="col-md-4">
+                        <div class="logo1"><img id="logoImg4" [src]="service.urlslogoImg4" alt=""   /></div>
+                      </div>
+                  <div class="col-md-4">
+                         <input type="text" class="form-control" name="logoText4"  #logoText4="ngModel" [(ngModel)]="service.formData.logoText4" placeholder="Logo 4 size">
+                       </div>
+                       <div class="col-md-3">
+                       <label class="btn btn-default btn-file">
+                         Upload<input  type="file"  (change)="getFilelogoImg4($event);handleFileInputlogoImg4($event.target.files)" accept="image/*" #Image >
+                     </label>
+                     </div>
+                   </div>
+          
+      </div> </div>
+      <button type="submit" class="  btn btn-file btn-info" style="margin-left:20%;">Save Product</button>
+   
+
+   
+      
+    </form>
+</div>

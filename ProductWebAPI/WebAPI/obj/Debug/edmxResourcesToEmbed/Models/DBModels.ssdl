@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sup2DBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="productID" />
+    </Key>
+    <Property Name="productID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="fabricInfo" Type="varchar" MaxLength="50" />
+    <Property Name="productName" Type="varchar" MaxLength="50" />
+    <Property Name="garmentDes" Type="varchar" MaxLength="50" />
+    <Property Name="fontName" Type="varchar" MaxLength="50" />
+    <Property Name="fontNumber" Type="varchar" MaxLength="50" />
+    <Property Name="garmentImg" Type="varchar" MaxLength="500" />
+    <Property Name="garmentSpecf" Type="varchar" MaxLength="50" />
+    <Property Name="chestXs" Type="int" />
+    <Property Name="chestS" Type="int" />
+    <Property Name="chestM" Type="int" />
+    <Property Name="chestL" Type="int" />
+    <Property Name="chestXl" Type="int" />
+    <Property Name="chest2xl" Type="int" />
+    <Property Name="chest3xl" Type="int" />
+    <Property Name="chest4xl" Type="int" />
+    <Property Name="chest5xl" Type="int" />
+    <Property Name="lengthXs" Type="int" />
+    <Property Name="lengthS" Type="int" />
+    <Property Name="lengthM" Type="int" />
+    <Property Name="lengthL" Type="int" />
+    <Property Name="lengthXl" Type="int" />
+    <Property Name="length2xl" Type="int" />
+    <Property Name="length3xl" Type="int" />
+    <Property Name="length4xl" Type="int" />
+    <Property Name="length5xl" Type="int" />
+    <Property Name="specialInstruction" Type="varchar" MaxLength="500" />
+    <Property Name="signature" Type="varchar" MaxLength="20" />
+    <Property Name="orderedDate" Type="varchar" MaxLength="20" />
+    <Property Name="requiredDate" Type="varchar" MaxLength="20" />
+    <Property Name="favcolor1" Type="varchar" MaxLength="20" />
+    <Property Name="favcolorText1" Type="varchar" MaxLength="20" />
+    <Property Name="favcolor2" Type="varchar" MaxLength="20" />
+    <Property Name="favcolorText2" Type="varchar" MaxLength="20" />
+    <Property Name="favcolor3" Type="varchar" MaxLength="20" />
+    <Property Name="favcolorText3" Type="varchar" MaxLength="20" />
+    <Property Name="favcolor4" Type="varchar" MaxLength="20" />
+    <Property Name="favcolorText4" Type="varchar" MaxLength="20" />
+    <Property Name="favcolor5" Type="varchar" MaxLength="20" />
+    <Property Name="favcolorText5" Type="varchar" MaxLength="20" />
+    <Property Name="favcolor6" Type="varchar" MaxLength="20" />
+    <Property Name="favcolorText6" Type="varchar" MaxLength="20" />
+    <Property Name="piecesXs" Type="varchar" MaxLength="20" />
+    <Property Name="piecesS" Type="varchar" MaxLength="20" />
+    <Property Name="piecesM" Type="varchar" MaxLength="20" />
+    <Property Name="piecesL" Type="varchar" MaxLength="20" />
+    <Property Name="piecesXl" Type="varchar" MaxLength="20" />
+    <Property Name="pieces2xl" Type="varchar" MaxLength="20" />
+    <Property Name="pieces3xl" Type="varchar" MaxLength="20" />
+    <Property Name="pieces4xl" Type="varchar" MaxLength="20" />
+    <Property Name="pieces5xl" Type="varchar" MaxLength="20" />
+    <Property Name="pieces6xl" Type="varchar" MaxLength="20" />
+    <Property Name="pieces7xl" Type="varchar" MaxLength="20" />
+    <Property Name="piecesTotal" Type="varchar" MaxLength="20" />
+    <Property Name="labelText1" Type="varchar" MaxLength="20" />
+    <Property Name="labelImg1" Type="varchar" MaxLength="500" />
+    <Property Name="labelText2" Type="varchar" MaxLength="20" />
+    <Property Name="labelImg2" Type="varchar" MaxLength="500" />
+    <Property Name="logoText1" Type="varchar" MaxLength="20" />
+    <Property Name="logoText2" Type="varchar" MaxLength="20" />
+    <Property Name="logoText3" Type="varchar" MaxLength="20" />
+    <Property Name="logoText4" Type="varchar" MaxLength="20" />
+    <Property Name="logoImg1" Type="varchar" MaxLength="500" />
+    <Property Name="logoImg2" Type="varchar" MaxLength="500" />
+    <Property Name="logoImg3" Type="varchar" MaxLength="500" />
+    <Property Name="logoImg4" Type="varchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="FirstName" Type="varchar" MaxLength="50" />
+    <Property Name="LastName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="sup2DBModelStoreContainer">
+    <EntitySet Name="product" EntityType="Self.product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
