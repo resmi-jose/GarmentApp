@@ -782,6 +782,8 @@ E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
 E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
 E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Antlr3.Runtime.pdb
 E:\APP\GarmentApp\ProductWebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.dll
 E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.pdb
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+E:\APP\GarmentApp\ProductWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
